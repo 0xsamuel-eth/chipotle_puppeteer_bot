@@ -1,2 +1,3 @@
 # tweet_puppeteer
-Puppeteer script to copy an embedded code from a Tweet, paste into iMessage, and send
+
+Bot to scrape and send Chipotle codes using Puppeteer & Tesseract
